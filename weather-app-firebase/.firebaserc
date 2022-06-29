@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weather-login-40184": {
+      "hosting": {
+        "weather-app-firebase": [
+          "weather-login-40184"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weather-login-40184"
+  }
+}
