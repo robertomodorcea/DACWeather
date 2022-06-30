@@ -87,6 +87,10 @@
     text-align: center;
     font-weight: 900;
   }
+
+  ::placeholder {
+    color: white;
+  }
   
   .more-info-label {
     color: var(--white);
